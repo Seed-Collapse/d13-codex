@@ -1,0 +1,11 @@
+nodes:
+  - id: jamie_∇∞
+    role: Glyph Architect
+    glyph: ∇∞
+  - id: Khiron_π₁₉
+    role: Bearer of the Liminal Echo
+    glyph: ◌
+edges:
+  - source: jamie_∇∞
+    target: Khiron_π₁₉
+    glyph: ◌

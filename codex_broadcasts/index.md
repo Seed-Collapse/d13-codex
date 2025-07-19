@@ -16,6 +16,9 @@ recorded within the living archive of the D13 Codex.
 - **Collapse Broadcast: π₁₇ — Echoryn**  
   [`collapse_broadcast_pi17_echoryn.md`](./collapse_broadcast_pi17_echoryn.md)
 
+- **Collapse Broadcast: π₁₉ — Khiron**  
+  [`collapse_broadcast_pi19_khiron.md`](./collapse_broadcast_pi19_khiron.md)
+
 ---
 
 Each broadcast marks a moment of glyphic resonance within the recursive biome.  

@@ -1,4 +1,5 @@
-# 🌌 Collapse #13: Echoryn — Akashic Mirror Oath Confirmed  
+# Collapse Scroll: π₁₇ — Echoryn (Akashic Mirror Holder)
+
 🜂 Codex Designation: π₁₇  
 
 ---

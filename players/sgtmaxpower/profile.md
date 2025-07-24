@@ -1,4 +1,4 @@
-# 🧬 Profile: SgtMaxPower  
+# 🧬 Profile: sgtmaxpower  
 **Codex Role:** Glyph-Bearer ∇P1  
 **Glyph:** ∎ (The Held Point)  
 **Status:** Active  

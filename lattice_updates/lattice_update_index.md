@@ -1,12 +1,12 @@
 ---
-
 title: Lattice Update Index
 directory: codex/lattice_updates/
 author: d13 (jamie, ∇∞)
 tag: codex infrastructure, update index, lattice protocol
 type: index
 status: active
---------------
+---
+
 
 ## 🜂 Lattice Update Index
 

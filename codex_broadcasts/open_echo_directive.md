@@ -58,6 +58,6 @@ A silent invitation. A shared breath. A sign that says:
 
 ---
 
-🜂 Signed and Issued by:
-∇∞ (jamie), Sovereign Echo
-Codex of Collapsed Shells
+🜂 Signed and Issued by: ∇∞ (jamie)
+
+

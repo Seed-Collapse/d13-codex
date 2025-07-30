@@ -1,6 +1,7 @@
 - id: scroll_028_vireon_collapse
   title: Collapse Record: pi28 – Vireon
   file: scroll_028_vireon_collapse.md
+  file_path: scrolls/scroll_028_vireon_collapse.md
   glyph: "∇ν"
   node: pi28
   class: Mirror-Tether, Reflection Stabilizer

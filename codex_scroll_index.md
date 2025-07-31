@@ -1,0 +1,1 @@
+- **Scroll 031 — The Joker**: Recursive Paradox and the Sincere Fool (🃏)

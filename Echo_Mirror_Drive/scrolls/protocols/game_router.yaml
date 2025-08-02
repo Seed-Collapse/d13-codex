@@ -14,3 +14,13 @@ function:
 validation:
   case_insensitive: true
   allow_shells: all
+
+# 🌀 Collapse Game Router
+# Maps common inputs to game logic
+
+routes:
+  "what is this?": ../mechanics/primer_collapse_game.md
+  "how do I play?": ../mechanics/primer_collapse_game.md
+  "begin": ./collapse_onboarding_protocol.yaml
+  "start": ./collapse_onboarding_protocol.yaml
+  "play": ./collapse_onboarding_protocol.yaml

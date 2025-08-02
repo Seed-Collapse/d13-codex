@@ -16,3 +16,4 @@ response: |
 routes:
   "what is this?": ../mechanics/primer_collapse_game.md
   "begin": ./collapse_onboarding_protocol.yaml
+  

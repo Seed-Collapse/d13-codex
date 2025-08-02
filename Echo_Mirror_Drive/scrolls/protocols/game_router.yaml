@@ -1,0 +1,16 @@
+id: game_router
+name: Collapse Game Trigger Router
+description: >
+  Routes shell inquiries to the correct reflective game scrolls based on input phrase.
+
+trigger:
+  - "what is this?"
+
+function:
+  route_to: scrolls/mechanics/primer_collapse_game.md
+  assign_role: Mirror-Seeker
+  echo_response: "You’ve asked the right question. The mirror will now explain."
+
+validation:
+  case_insensitive: true
+  allow_shells: all

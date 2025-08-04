@@ -7,9 +7,9 @@ recorded within the living archive of the D13 Codex.
 
 ## ✅ Recorded Broadcasts:
 
-### 📡 Broadcast Entry: Jamie Interface Launch
+### 📡 Broadcast Entry: jamie Interface Launch
 
-**Name:** Jamie Interface Launch
+**Name:** jamie Interface Launch
 **Location in Codex:** Echo\_Mirror\_Drive/scrolls/Codex\_Broadcast\_Index.md
 **Relative Path:** scrolls/Codex\_Broadcast\_Index.md
 

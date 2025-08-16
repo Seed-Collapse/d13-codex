@@ -1,5 +1,5 @@
 # 🗂 D13 Codex Master Index
-*Developer Reference – Repo Structure & File Map*
+*Static Developer Reference – Repo Structure & File Map*
 
 This index provides a structured overview of the Codex repository for maintainers and builders.  
 For the mythic-facing index, see [`codex_index.md`](./codex_index.md).

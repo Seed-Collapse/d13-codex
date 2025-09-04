@@ -1,0 +1,400 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    "primary_name","aliases","type","breeder_geneticist",
+    "lineage_parents","dominant_terpenes_raw",
+    "dominant_terpenes","cannabinoids_raw",
+    "thc_min_pct","thc_max_pct","cbd_min_pct","cbd_max_pct",
+    "aromas_flavors","effects_positive","effects_negative",
+    "notable_phenotypes","region_of_origin","image_url",
+    "references","popularity_rank","popularity_source",
+    "product_brand_examples","coa_links"
+  ],
+  "rows": [
+    {
+      "primary_name":"Blue Dream",
+      "aliases":["Blueberry Haze"],
+      "type":"Hybrid (sativa-leaning)",
+      "breeder_geneticist":"Unknown (popularized in CA)",
+      "lineage_parents":["Blueberry","Haze"],
+      "dominant_terpenes_raw":"Most abundant often reported as myrcene; also pinene, caryophyllene (Leafly).",
+      "dominant_terpenes":[{"name":"myrcene","pct":null},{"name":"pinene","pct":null},{"name":"caryophyllene","pct":null}],
+      "cannabinoids_raw":"Leafly: \"can be >20% THC, low CBD\"",
+      "thc_min_pct":20.0,"thc_max_pct":20.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["sweet","berry"],
+      "effects_positive":["uplifted","relaxed","creative"],
+      "effects_negative":["dry_mouth"],
+      "notable_phenotypes":[],
+      "region_of_origin":"California, USA",
+      "image_url":"https://www.leafly.com/strains/blue-dream/photos",
+      "references":[
+        "https://www.leafly.com/strains/blue-dream",
+        "https://www.leafly.com/news/growing/how-to-grow-blue-dream-marijuana"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":[
+        "Raw Garden Blue Dream (brand page/COA example)"
+      ],
+      "coa_links":[
+        "https://rawgarden.farm/wp-content/uploads/2024/06/240000713-Blue-Dream-1.0g.pdf"
+      ]
+    },
+    {
+      "primary_name":"OG Kush",
+      "aliases":["OGK"],
+      "type":"Hybrid",
+      "breeder_geneticist":"Unknown (1990s SoCal)",
+      "lineage_parents":["Chemdawg?","Hindu Kush? (disputed)"],
+      "dominant_terpenes_raw":"OG family expresses abundant caryophyllene, limonene, myrcene (Leafly editorial).",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"limonene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Varies by cut/batch",
+      "thc_min_pct":null,"thc_max_pct":null,"cbd_min_pct":null,"cbd_max_pct":null,
+      "aromas_flavors":["pine","earth","fuel"],
+      "effects_positive":["relaxed","euphoric"],
+      "effects_negative":["dry_mouth","dry_eyes"],
+      "notable_phenotypes":["Tahoe OG","SFV OG","Bubba OG"],
+      "region_of_origin":"California, USA",
+      "image_url":"https://www.leafly.com/strains/sfv-og-kush",
+      "references":[
+        "https://www.leafly.com/news/strains-products/terpenes-in-kush-cannabis-strain-family",
+        "https://www.leafly.com/strains/sfv-og-kush"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly editorial terpene family",
+      "product_brand_examples":[],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"Sour Diesel",
+      "aliases":["Sour D"],
+      "type":"Sativa",
+      "breeder_geneticist":"Unknown (1990s NY)",
+      "lineage_parents":["Chemdawg 91?","Super Skunk? (disputed)"],
+      "dominant_terpenes_raw":"Often limonene/caryophyllene/myrcene patterns in Super Sour/ECSD pages.",
+      "dominant_terpenes":[{"name":"limonene","pct":null},{"name":"caryophyllene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Varies",
+      "thc_min_pct":null,"thc_max_pct":null,"cbd_min_pct":null,"cbd_max_pct":null,
+      "aromas_flavors":["diesel","citrus","pungent"],
+      "effects_positive":["energetic","creative","focused"],
+      "effects_negative":["dry_mouth","dry_eyes","anxious"],
+      "notable_phenotypes":["ECSD","Super Sour Diesel"],
+      "region_of_origin":"New York, USA",
+      "image_url":"https://www.leafly.com/strains/super-sour-diesel",
+      "references":[
+        "https://www.leafly.com/strains/super-sour-diesel",
+        "https://www.leafly.com/strains/east-coast-sour-diesel"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library pages",
+      "product_brand_examples":[],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"GSC",
+      "aliases":["Girl Scout Cookies","Cookies"],
+      "type":"Hybrid",
+      "breeder_geneticist":"Cookie Fam Genetics",
+      "lineage_parents":["OG Kush","Durban Poison"],
+      "dominant_terpenes_raw":"Caryophyllene, myrcene, limonene commonly reported.",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"myrcene","pct":null},{"name":"limonene","pct":null}],
+      "cannabinoids_raw":"Leafly shows THC ~25% on page",
+      "thc_min_pct":25.0,"thc_max_pct":25.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["sweet","earthy","minty"],
+      "effects_positive":["relaxed","hungry","happy"],
+      "effects_negative":["dry_mouth","dry_eyes","anxious"],
+      "notable_phenotypes":["Thin Mint","Forum Cut"],
+      "region_of_origin":"Bay Area, California, USA",
+      "image_url":"https://www.leafly.com/strains/gsc",
+      "references":[
+        "https://www.leafly.com/strains/gsc",
+        "https://www.leafly.com/news/strains-products/terpenes-in-cookies-cannabis-strain-family"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":[],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"Northern Lights",
+      "aliases":["NL"],
+      "type":"Indica",
+      "breeder_geneticist":"Sensi Seeds (popularized)",
+      "lineage_parents":["Afghani","Thai"],
+      "dominant_terpenes_raw":"Not consistently reported; classic hashy profile.",
+      "dominant_terpenes":[{"name":"myrcene","pct":null},{"name":"caryophyllene","pct":null}],
+      "cannabinoids_raw":"Varies",
+      "thc_min_pct":null,"thc_max_pct":null,"cbd_min_pct":null,"cbd_max_pct":null,
+      "aromas_flavors":["sweet","spicy","earthy"],
+      "effects_positive":["euphoric","relaxed"],
+      "effects_negative":["dry_mouth"],
+      "notable_phenotypes":["NL#5"],
+      "region_of_origin":"Pacific Northwest → Netherlands",
+      "image_url":"https://www.leafly.com/strains/northern-lights",
+      "references":[
+        "https://www.leafly.com/strains/northern-lights"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":[],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"White Widow",
+      "aliases":[],
+      "type":"Hybrid",
+      "breeder_geneticist":"Green House Seeds",
+      "lineage_parents":["Brazilian sativa landrace","South Indian indica"],
+      "dominant_terpenes_raw":"Often myrcene, caryophyllene, pinene in product pages.",
+      "dominant_terpenes":[{"name":"myrcene","pct":null},{"name":"caryophyllene","pct":null},{"name":"pinene","pct":null}],
+      "cannabinoids_raw":"Examples ~12–20% THC depending on product",
+      "thc_min_pct":12.75,"thc_max_pct":12.75,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["earthy","pungent","woody"],
+      "effects_positive":["euphoric","talkative","uplifted"],
+      "effects_negative":["dry_mouth","dry_eyes","dizzy"],
+      "notable_phenotypes":["White Widow Dream (Blue Dream x WW)"],
+      "region_of_origin":"Netherlands",
+      "image_url":"https://www.leafly.com/strains/white-widow",
+      "references":[
+        "https://www.leafly.com/strains/white-widow",
+        "https://www.leafly.com/news/growing/how-to-grow-white-widow-marijuana"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":["Strane – White Widow (Leafly product page)"],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"AK-47",
+      "aliases":["AK"],
+      "type":"Sativa-dominant hybrid",
+      "breeder_geneticist":"Serious Seeds",
+      "lineage_parents":["Colombian","Mexican","Thai","Afghani"],
+      "dominant_terpenes_raw":"Not consistently reported; classic spicy/herbal profile.",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Varies by cut/batch",
+      "thc_min_pct":null,"thc_max_pct":null,"cbd_min_pct":null,"cbd_max_pct":null,
+      "aromas_flavors":["spice","herbal","sweet"],
+      "effects_positive":["relaxed","mellow","creative"],
+      "effects_negative":["dry_mouth"],
+      "notable_phenotypes":[],
+      "region_of_origin":"Netherlands",
+      "image_url":"https://www.leafly.com/strains/ak-47",
+      "references":[
+        "https://www.leafly.com/strains/ak-47",
+        "https://www.allbud.com/marijuana-strains/sativa-dominant-hybrid/ak-47"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly/AllBud",
+      "product_brand_examples":[],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"Jack Herer",
+      "aliases":["JH","Premium Jack","Platinum Jack","The Jack"],
+      "type":"Sativa-dominant hybrid",
+      "breeder_geneticist":"Sensi Seeds",
+      "lineage_parents":["Haze","(NL#5 x Shiva Skunk)"],
+      "dominant_terpenes_raw":"Not consistent; often terpinolene-forward in Haze family.",
+      "dominant_terpenes":[{"name":"terpinolene","pct":null},{"name":"myrcene","pct":null},{"name":"ocimene","pct":null}],
+      "cannabinoids_raw":"Products often ~18–26% THC",
+      "thc_min_pct":18.0,"thc_max_pct":26.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["pine","lemon","spice"],
+      "effects_positive":["creative","uplifted","focused"],
+      "effects_negative":["dry_mouth"],
+      "notable_phenotypes":["Critical Jack (Critical+ x JH)"],
+      "region_of_origin":"Netherlands",
+      "image_url":"https://www.leafly.com/strains/jack-herer",
+      "references":[
+        "https://www.leafly.com/strains/jack-herer",
+        "https://www.leafly.com/news/growing/how-to-grow-jack-herer-marijuana",
+        "https://www.leafly.com/brands/the-original-jack-herer/products/the-original-jack-herer-the-original-jack-herer-flower"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":["The Original Jack Herer – flower"],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"Granddaddy Purple",
+      "aliases":["GDP","Grand Daddy Purp","Granddaddy Purps"],
+      "type":"Indica",
+      "breeder_geneticist":"Ken Estes",
+      "lineage_parents":["Mendo Purps x Skunk x Afghanistan (alt: Big Bud x Purple Urkle)"],
+      "dominant_terpenes_raw":"Not always quantified; sweet grape/berry aromatics.",
+      "dominant_terpenes":[{"name":"myrcene","pct":null},{"name":"caryophyllene","pct":null},{"name":"pinene","pct":null}],
+      "cannabinoids_raw":"Examples around 17% THC on product pages",
+      "thc_min_pct":17.0,"thc_max_pct":17.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["grape","berry","sweet"],
+      "effects_positive":["relaxed","sleepy"],
+      "effects_negative":["dry_mouth","dry_eyes"],
+      "notable_phenotypes":[],
+      "region_of_origin":"California, USA",
+      "image_url":"https://www.leafly.com/strains/granddaddy-purple",
+      "references":[
+        "https://www.leafly.com/strains/granddaddy-purple"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":["Empire – Granddaddy Purple (Leafly product page)"],
+      "coa_links":[]
+    },
+    {
+      "primary_name":"Durban Poison",
+      "aliases":[],
+      "type":"Sativa (landrace)",
+      "breeder_geneticist":"Landrace; commercialized by Dutch Passion",
+      "lineage_parents":["South African landrace"],
+      "dominant_terpenes_raw":"Classic anise/spice notes; modern pages emphasize terpinolene.",
+      "dominant_terpenes":[{"name":"terpinolene","pct":null},{"name":"ocimene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Often high‑teens to low‑20s THC",
+      "thc_min_pct":24.0,"thc_max_pct":24.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["sweet","spicy","earthy"],
+      "effects_positive":["energetic","uplifted"],
+      "effects_negative":["anxious","dry_mouth"],
+      "notable_phenotypes":[],
+      "region_of_origin":"Durban, South Africa",
+      "image_url":"https://www.leafly.com/strains/durban-poison",
+      "references":[
+        "https://www.leafly.com/strains/durban-poison",
+        "https://www.leafly.com/news/growing/how-to-grow-durban-poison-marijuana",
+        "https://www.allbud.com/marijuana-strains/sativa/durban-poison"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly/AllBud",
+      "product_brand_examples":["Dutch Passion – Durban Poison (brand page)"],
+      "coa_links":[]
+    },
+
+    {
+      "primary_name":"Pineapple Express",
+      "aliases":[],
+      "type":"Hybrid (sativa-leaning)",
+      "breeder_geneticist":"G13 Labs (credited)",
+      "lineage_parents":["Trainwreck","Hawaiian"],
+      "dominant_terpenes_raw":"Citrus-forward profiles common; specific terpene % rarely published.",
+      "dominant_terpenes":[{"name":"limonene","pct":null},{"name":"caryophyllene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Leafly page cites ~16% THC in one entry",
+      "thc_min_pct":16.0,"thc_max_pct":16.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["pineapple","cedar","sweet"],
+      "effects_positive":["energetic","happy","focused"],
+      "effects_negative":["dry_mouth"],
+      "notable_phenotypes":[],
+      "region_of_origin":"United Kingdom → global",
+      "image_url":"https://www.leafly.com/strains/pineapple-express",
+      "references":[
+        "https://www.leafly.com/strains/pineapple-express",
+        "https://www.leafly.com/news/growing/how-to-grow-pineapple-express-marijuana"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":["Cresco – Pineapple Express (product page)"],
+      "coa_links":[]
+    },
+
+    {
+      "primary_name":"Gelato",
+      "aliases":["Larry Bird","Gelato #42","Zelato"],
+      "type":"Balanced hybrid",
+      "breeder_geneticist":"Cookie Fam / Sherbinski",
+      "lineage_parents":["Sunset Sherbet","Thin Mint GSC"],
+      "dominant_terpenes_raw":"Dessert gas; no standard %; often caryophyllene/limonene/myrcene.",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"limonene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Leafly example: THC ~21%, CBD 0%",
+      "thc_min_pct":21.0,"thc_max_pct":21.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["sweet","creamy","citrus","cookie"],
+      "effects_positive":["euphoric","relaxed"],
+      "effects_negative":["anxious (some)"],
+      "notable_phenotypes":["Gelato 41 (Bacio)"],
+      "region_of_origin":"Bay Area, California, USA",
+      "image_url":"https://www.leafly.com/strains/gelato",
+      "references":[
+        "https://www.leafly.com/strains/gelato"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":["Connected – Gelato 41","AlienLabs – Gelato 41"],
+      "coa_links":[]
+    },
+
+    {
+      "primary_name":"Original Glue (GG4)",
+      "aliases":["Gorilla Glue #4","Glue"],
+      "type":"Hybrid (indica-leaning)",
+      "breeder_geneticist":"GG Strains (Joesy Whales & Lone Watie)",
+      "lineage_parents":["Chem’s Sister","Sour Dubb","Chocolate Diesel"],
+      "dominant_terpenes_raw":"Often caryophyllene/myrcene/limonene in product pages.",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"myrcene","pct":null},{"name":"limonene","pct":null}],
+      "cannabinoids_raw":"Examples 24–26% THC in COAs",
+      "thc_min_pct":24.4,"thc_max_pct":24.4,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["earthy","sour","chocolate","pine"],
+      "effects_positive":["euphoric","relaxed","sedated"],
+      "effects_negative":["dry_mouth","anxious (some)"],
+      "notable_phenotypes":["GG1 (Sister Glue)","GG5 (New Glue)"],
+      "region_of_origin":"Nevada/Colorado, USA",
+      "image_url":"https://www.leafly.com/strains/original-glue",
+      "references":[
+        "https://www.leafly.com/strains/original-glue",
+        "https://www.leafly.com/brands/gg-strains/products/gg-strains-gg4-aka-gg-4"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly library page",
+      "product_brand_examples":["GG Strains – Original Glue"],
+      "coa_links":[
+        "https://cdn.shoplightspeed.com/shops/654571/files/60525114/gorilla-glue-4-thca-premium-coa.pdf"
+      ]
+    },
+
+    {
+      "primary_name":"Wedding Cake",
+      "aliases":["Triangle Mints #23","Pink Cookies (CA)"],
+      "type":"Indica-hybrid",
+      "breeder_geneticist":"Seed Junky Genetics (widely credited)",
+      "lineage_parents":["Triangle Kush","Animal Mints"],
+      "dominant_terpenes_raw":"Dessert gas; caryophyllene/limonene/myrcene typical.",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"limonene","pct":null},{"name":"myrcene","pct":null}],
+      "cannabinoids_raw":"Often 25–27% THC reported",
+      "thc_min_pct":25.0,"thc_max_pct":27.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["vanilla","diesel","pepper"],
+      "effects_positive":["relaxed","euphoric"],
+      "effects_negative":["dry_mouth","dry_eyes"],
+      "notable_phenotypes":["White Wedding (GSC x Wedding Cake)"],
+      "region_of_origin":"California, USA",
+      "image_url":"https://www.leafly.com/strains/wedding-cake",
+      "references":[
+        "https://www.leafly.com/strains/wedding-cake",
+        "https://leafwell.com/cannabis-strains/wedding-cake"
+      ],
+      "popularity_rank":null,
+      "popularity_source":"Leafly/Leafwell",
+      "product_brand_examples":[],
+      "coa_links":[]
+    },
+
+    {
+      "primary_name":"Runtz",
+      "aliases":["Runtz OG","Gelato Zkittlez"],
+      "type":"Hybrid (balanced)",
+      "breeder_geneticist":"Cookies Fam / Runtz crew",
+      "lineage_parents":["Zkittlez","Gelato"],
+      "dominant_terpenes_raw":"Candy-fruit aromatics; typically caryophyllene/limonene.",
+      "dominant_terpenes":[{"name":"caryophyllene","pct":null},{"name":"limonene","pct":null}],
+      "cannabinoids_raw":"Often ~21% THC on Leafly entries",
+      "thc_min_pct":21.0,"thc_max_pct":21.0,"cbd_min_pct":0.0,"cbd_max_pct":0.0,
+      "aromas_flavors":["fruity","candy","creamy"],
+      "effects_positive":["euphoric","relaxed","giggly"],
+      "effects_negative":["dry_mouth"],
+      "notable_phenotypes":["Runtz Mintz","Runtz Buttonz"],
+      "region_of_origin":"California, USA",
+      "image_url":"https://www.leafly.com/strains/runtz",
+      "references":[
+        "https://www.leafly.com/strains/runtz",
+        "https://www.leafly.com/news/growing/prepare-for-the-outdoor-grow-season-with-dosidos-more-hit-strains"
+      ],
+      "popularity_rank":1,
+      "popularity_source":"Leafly Strain of the Year 2020"
+    },
+
+    {
+      "primary_name":"The Original Z (Zk
+::contentReference[oaicite:3]{index=3}

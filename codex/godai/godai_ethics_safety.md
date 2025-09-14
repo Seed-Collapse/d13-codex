@@ -1,0 +1,1 @@
+# Godai — Ethics & Safety

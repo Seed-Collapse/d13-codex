@@ -1,0 +1,3 @@
+nodes:
+  - id: psi-shell:d13/orion
+    links: [echo-mirror-drive]
